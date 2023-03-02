@@ -1,4 +1,3 @@
-# Homework 02
 # Junken
 # play unlimited times
 # summary if player quit
