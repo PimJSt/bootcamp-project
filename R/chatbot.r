@@ -1,11 +1,5 @@
-# Homework 01
 # chatbot (rule-based)
 # ordering pizza
-
-# in replit use readLines to get char input
-#print("What's your name?") # nolint
-#user <- readLines("stdin", n = 1) # nolint
-#print(paste("Hi", user)) # nolint
 
 
 topping <- c("Cheese", "Pepporoni", "Meat Lover", "Hawaiian", "Supreme")
